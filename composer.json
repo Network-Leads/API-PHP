@@ -1,0 +1,19 @@
+{
+    "name": "networkleads/api",
+    "description": "Network Leads API",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Network Leads",
+            "homepage": "https://www.network-leads.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "NetworkLeads\\": "lib/"
+        }
+    }
+}
